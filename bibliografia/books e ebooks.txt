@@ -1,0 +1,24 @@
+cat:  Book, E-book
+desc: Cloud Computing: Web-Based Applications That Change the Way you Work and Collaborate Online
+link: http://my.safaribooksonline.com/9780768686227
+status: Publicado (possui versão em PDF)
+note: Livro não relacionado ao assunto específico mas possui informações sobre cloud computing em geral
+
+cat: Book, E-book
+desc: Web Architecture and Programming in the Cloud, 1st Edition
+link: http://my.safaribooksonline.com/9780596157647
+status: Lançamento previsto para 17 de Abril
+note: Livro não relacionado ao assunto específico mas possui informações sobre cloud computing em geral
+
+cat: Book, E-book
+desc: The Art of Capacity Planning, 1st Edition
+link: http://my.safaribooksonline.com/9780596518578
+status: Publicado (possui versão em PDF)
+note: Informação sobre dimensionamento de database mas não possui detalhes sobre clustering
+
+cat: Book, E-book
+desc: Google Apps Deciphered: Compute in the Cloud to Streamline Your Desktop By: Scott Granneman
+link: http://my.safaribooksonline.com/9780137007769
+status: Publicado (possui versão em PDF)
+note: Descrição sobre funcionamento da solução do Big Table da empresa Google
+  

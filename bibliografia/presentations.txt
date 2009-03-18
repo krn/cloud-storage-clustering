@@ -1,0 +1,9 @@
+cat: Presentation
+desc: Cloud Computing with bigdata
+link: http://en.oreilly.com/oscon2008/public/schedule/detail/2933
+note: Introduz o conceito de BigData e Cloud Computing! Muito boa apresentação!
+
+cat: Presentation
+desc: Cloud Computing with Persistent Data: Pushing the Envelope of Amazon Web Services
+link: http://en.oreilly.com/oscon2008/public/schedule/detail/3174
+note: Descreve um projeto de persistência de objetos utilizando solução de clustering da Amazon (Simple Storage Service). Não possui presentation disponível :(

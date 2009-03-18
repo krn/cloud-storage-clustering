@@ -1,0 +1,40 @@
+cat: Paper
+desc: Incrementally Parallelizing Database Transactions with Thread-Level Speculation
+link: http://www.google.com/search?lr=&ie=UTF-8&oe=UTF-8&q=Incrementally+Parallelizing+Database+Transactions+with+Thread-Level+Speculation+Colohan+Ailamaki+Steffan+Mowry
+note: Paper interessante sobre sistemas de armazenamento distribuído e integridade de dados
+
+cat: Paper
+desc: An Information Avalanche
+link: http://www2.computer.org/portal/web/csdl/doi/10.1109/MC.2007.5
+
+cat: Paper
+desc: Architect's Dream Or Developer's Nightmare? 
+link: http://portal.acm.org/citation.cfm?doid=1266894.1266931
+ 
+cat: Paper
+desc: Building MEMS-based storage systems for streaming media
+link: http://portal.acm.org/citation.cfm?doid=1242520.1242523
+
+cat: Paper
+desc: Indexing Dataspaces
+link: http://db.cs.washington.edu/semex/index_sigmod.pdf
+
+cat: Paper
+desc: Introducing Big Table
+link: http://research.google.com/archive/bigtable-osdi06.pdf
+
+cat: Paper
+desc: Data management projects at Google
+link: http://portal.acm.org/citation.cfm?doid=1142473.1142566
+
+cat: Paper
+desc: Experiences with MapReduce, an Abstraction for Large-Scale Computation
+link: http://www.cs.virginia.edu/~pact2006/program/mapreduce-pact06-keynote.pdf
+
+cat: Paper
+desc: Principles of dataspace systems
+link: http://portal.acm.org/citation.cfm?doid=1142351.1142352
+
+cat: Paper
+desc: Map Reduce: Simplified Data Processing on Large Clusters  
+link: http://research.google.com/archive/mapreduce.html

@@ -1,0 +1,9 @@
+cat: Site
+desc: Biblioteca digital da ACM (Association for Computing Machinery)
+link: http://portal.acm.org/dl.cfm
+note: Resource completo com MUITO material e informação
+
+cat: Site
+desc: Papers Written by Googlers
+link: http://research.google.com/pubs/papers.html
+note: Lista de todos os papers publicado por funcionários da Google
